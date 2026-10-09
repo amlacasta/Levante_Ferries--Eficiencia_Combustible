@@ -1,0 +1,35 @@
+{
+  "n_voyages": 7200,
+  "n_routes": 8,
+  "n_vessels": 10,
+  "n_captains": 18,
+  "fuel_tonnes": 58665.306618241426,
+  "co2e_tonnes": 183660.2107502542,
+  "fuel_cost_eur": 40464527.992805846,
+  "ets_cost_eur": 14278824.641374571,
+  "margin_eur": 296505788.39777344,
+  "otr15_pct": 83.59722222222223,
+  "fuel_per_nm_kg": 81.88732315521231,
+  "co2e_per_pax_kg": 35.9954034181785,
+  "model": {
+    "MAE_t": 0.2789110824174321,
+    "RMSE_t": 0.3741303665821818,
+    "R2": 0.985790595199933,
+    "WAPE_pct": 3.3671108209774605,
+    "n_train": 5760,
+    "n_test": 1440
+  },
+  "cluster_silhouette": 0.4846927024667335,
+  "captain_valid_count": 18,
+  "simulator_example": {
+    "voyage_id": "V007167",
+    "route": "Dénia–Palma",
+    "vessel": "LF-Aitana",
+    "baseline_speed_kn": 28.595940870887915,
+    "baseline_fuel_t": 11.924971938712359,
+    "best_speed_kn": 25.345940870887915,
+    "best_fuel_t": 10.502031176583433,
+    "best_delay_min": 14.311013879709549,
+    "best_margin_eur": 54565.29276181369
+  }
+}

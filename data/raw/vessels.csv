@@ -1,0 +1,11 @@
+vessel_id,vessel_class,pax_capacity,lane_m_capacity
+LF-Aitana,fast_ro_pax,1250,350
+LF-CapBlanc,ro_pax,900,500
+LF-Castell,ro_pax,850,450
+LF-Garbí,eco_ro_pax,900,480
+LF-Ifach,fast_ro_pax,1000,290
+LF-Levante,ro_pax,950,520
+LF-Llebeig,eco_ro_pax,880,470
+LF-Marina,ro_pax,800,430
+LF-Montgó,fast_ro_pax,1150,320
+LF-Segaria,ro_pax,1050,550
